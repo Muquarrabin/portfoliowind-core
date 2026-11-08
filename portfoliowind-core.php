@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: PortfolioWind Core
- * Plugin URI: https://nasifmuquarrabin.me
+ * Plugin URI: https://github.com/Muquarrabin/portfoliowind-core
  * Description: Core companion functionality for the PortfolioWind theme, providing the Portfolio Projects custom post type, taxonomies, case study meta boxes, and Elementor section shortcodes.
  * Version: 1.0.0
  * Author: Nasif Muquarrabin
