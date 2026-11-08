@@ -1,5 +1,5 @@
 === PortfolioWind Core ===
-Contributors: muquarrabin98, muquarrabin
+Contributors: muquarrabin98
 Tags: portfolio, case-study, projects, custom-post-type, elementor
 Requires at least: 5.8
 Tested up to: 7.1
